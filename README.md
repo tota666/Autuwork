@@ -1,7 +1,7 @@
 # Autuwork
 
 
-模拟带JavaScript执行环境的浏览器定时访问脚本，可以用来访问依赖JavaScript支持的网页，脚本设定没1小时运行一次。
+模拟带JavaScript执行环境的浏览器定时访问脚本，可以用来访问依赖JavaScript支持的网页，脚本设定每小时运行一次。
 
 
 运行 GitHub Actions：
