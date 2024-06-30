@@ -11,4 +11,4 @@
 你会看到一个新的工作流 Simulate Browser Execution。
 
 
-它会根据 cron 表达式定时自动运行。
+启动后它会根据 cron 表达式定时运行。
